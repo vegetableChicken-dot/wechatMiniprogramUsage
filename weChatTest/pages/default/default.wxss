@@ -1,0 +1,4 @@
+/* pages/default/default.wxss */
+.c1{
+  color:blue;
+}

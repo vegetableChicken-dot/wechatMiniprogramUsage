@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/homepage/homepage"
+  ],
+  "window":{
+    "navigationBarBackgroundColor":"#8B6914",
+    "navigationBarTitleText":"大保健"
+  },
+  "tabBar":{
+    "list":[
+        {
+          "pagePath":"pages/homepage/homepage",
+          "text":"首页",
+          "iconPath":"static/icons/home.png",
+          "selectedIconPath":"static/icons/home-active.png"
+        },
+        {
+          "pagePath": "pages/homepage/homepage",
+          "text": "拍卖",
+          "iconPath": "static/icons/column-horizontal.png",
+          "selectedIconPath": "static/icons/column-horizontal-active.png"
+        },
+        {
+          "pagePath": "pages/homepage/homepage",
+          "text": "发布",
+          "iconPath": "static/icons/modular.png",
+          "selectedIconPath": "static/icons/modular-active.png"
+        },
+        {
+          "pagePath": "pages/homepage/homepage",
+          "text": "消息",
+          "iconPath": "static/icons/comment.png",
+          "selectedIconPath": "static/icons/comment-active.png"
+        },
+        {
+          "pagePath": "pages/homepage/homepage",
+          "text": "我的",
+          "iconPath": "static/icons/bussiness-man.png",
+          "selectedIconPath": "static/icons/bussiness-man-active.png"
+        }
+    ]
+  }
+}

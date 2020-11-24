@@ -1,0 +1,15 @@
+/* pages/index/index.wxss */
+
+.title{
+  color:red;
+  text-align: center;
+  font-size: 60rpx;
+}
+.imshow{
+  display: flex;
+  flex-direction:row
+}
+.imshow .ha image{
+  height: 100px;
+  width: 100px;
+}

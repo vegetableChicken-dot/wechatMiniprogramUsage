@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/default/default"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#0FE345",
+    "navigationBarTitleText": "智能文创"
+  },
+  "tabBar":{
+    "list":[
+      {
+        "pagePath":"pages/index/index",
+        "text":"照片墙"
+      },
+      {
+        "pagePath": "pages/default/default",
+        "text": "钉子画"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

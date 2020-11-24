@@ -1,0 +1,20 @@
+<!--pages/index/index.wxml-->
+<view class='title'>照片墙</view>
+
+<text>展示图片</text>
+
+<view class='imshow'>
+  
+  <view class='ha'>
+    <image src='../../static/images/2ha.png'></image>
+  </view>
+  
+  <view class='ha'>
+    <image src='../../static/images/2ha.png'></image>
+  </view>
+  
+  <view class='ha'>
+    <image src='../../static/images/2ha.png'></image>
+  </view>
+
+</view>
